@@ -12,19 +12,34 @@ handwriting onto a piece of paper via a MakeBlock XY Plotter.
 the paragraph, which looks like the original provider of sample's handwriting}
 
 Brainstorm. Here is a list of characteristics that define an individual's handwriting:
+
   letter shape
+  
   handedness
-  segmentation/flow. I/f/the/hu/man/b/rain/were/so/s/imple/that/we/could/un/derstand/it/we/would/be/so/s/imple/that/we/wouldn't.
-    how are specific amounts of letters connected together?
+  
+  segmentation/flow. 
+
+I/f/the/hu/man/b/rain/were/so/s/imple/that/we/could/un/derstand/it/we/would/be/so/s/imple/that/we/wouldn't.
+
+  how are specific amounts of letters connected together?
+  
   pressure
+  
   capitals 
+  
   amplitude and width of letters on a line
+  
   outlires 
+  
   possibly randomize dotting of i's and crossing of t's to make writing seem more authentic. Allow some error in height, placement
+  
   cases: two letter words, repeated letters "tt"
+  
   spacing between words
 
+
 1. Recognition program
+
 2. Program to instruct MakeBlock XY Plotter
 
   
